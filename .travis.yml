@@ -12,3 +12,6 @@ install:
 script:
   - rake default
   - true
+
+notifications:
+  email: false
