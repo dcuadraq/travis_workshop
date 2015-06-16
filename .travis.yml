@@ -7,4 +7,8 @@ install:
   - date
   - cal 6 2015
   - pwd
+  - whoami
+
+script:
   - false
+  - rake default
